@@ -44,13 +44,13 @@ func main(){
 
 	// you can create variable in `if` condition just before writing any condition
 
-	if age := 14; age >= 18 {
-		fmt.Println("Adult !")
-	} else if age >= 12 {
-		fmt.Println("Teenager !")
-	} else {
-		fmt.Println("Kid !")
-	}
+	// if age := 14; age >= 18 {
+	// 	fmt.Println("Adult !")
+	// } else if age >= 12 {
+	// 	fmt.Println("Teenager !")
+	// } else {
+	// 	fmt.Println("Kid !")
+	// }
 
 //----------------------------------------------------------------------
 
